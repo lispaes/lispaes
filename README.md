@@ -13,13 +13,13 @@ Hello! 😼👋 I'm Lis Barreto, a Computer Science student at the Federal Unive
 
 ### ⭐ Linguagens e Tecnologias / Languages & Tools:
 
-#### Linguagens de programação:
+#### Linguagens de programação / Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 
-#### Banco de Dados e Data Science:
+#### Databases & Data Science:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Statistics"/>
 
-#### Desenvolvimento Web:
+#### Desenvolvimento Web / Web Development:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 ### 📩 Contate-me / Contact me:
