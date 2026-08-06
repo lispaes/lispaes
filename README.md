@@ -1,14 +1,14 @@
-# 👩🏼‍💻 Lis Barreto
+# 👩🏼‍💻 Lis Paes
 
 <img src="https://img.shields.io/badge/Data%20Science%20%26%20Fullstack%20Development-6A0DAD?style=for-the-badge&logoColor=white" alt="Data Science & Fullstack Development"/>
 
 **`README (PT-BR)`**
 
-Olá! 😼👋 Sou Lis Barreto, estudante de Ciência da Computação na Universidade Federal do Cariri (UFCA). Atualmente, direciono meus estudos para Ciência de Dados e Desenvolvimento Full Stack, constantemente aprimorando minhas habilidades por meio de estudos e projetos práticos.
+Olá! 😼👋 Sou Lis Paes, estudante de Ciência da Computação na Universidade Federal do Cariri (UFCA). Atualmente, direciono meus estudos para Ciência de Dados e Desenvolvimento Full Stack, constantemente aprimorando minhas habilidades por meio de estudos e projetos práticos.
 
 **`README (EN)`**
 
-Hello! 😼👋 I'm Lis Barreto, a Computer Science student at the Federal University of Cariri (UFCA). I'm currently focusing my studies on Data Science and Full-Stack Development, continuously improving my skills through learning and hands-on projects.
+Hello! 😼👋 I'm Lis Paes, a Computer Science student at the Federal University of Cariri (UFCA). I'm currently focusing my studies on Data Science and Full-Stack Development, continuously improving my skills through learning and hands-on projects.
 
 
 ### ⭐ Linguagens e Tecnologias / Languages & Tools:
