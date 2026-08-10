@@ -23,5 +23,7 @@ Hello! 😼👋 I'm Lis Paes, a Computer Science student at the Federal Universi
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 ### 📩 Contate-me / Contact me:
-<a href="mailto:lis.paes@aluno.ufca.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[[https://www.linkedin.com/in/lis-barreto-784baa1a3/](https://www.linkedin.com/in/lis-paes-784baa1a3/)](https://www.linkedin.com/in/lis-paes-784baa1a3/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="mailto:flordelisolda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lis-paes-784baa1a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
