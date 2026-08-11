@@ -18,5 +18,5 @@ Olá! 😼👋 Sou Lis Paes, estudante de Ciência da Computação na Universida
 ### 📩 Contate-me:
 <p>
   <a href="mailto:flordelisolda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lis-paes-784baa1a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lis-paes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
